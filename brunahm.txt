@@ -1,2 +1,3 @@
 my first commit
 conflicting line
+my second commit
