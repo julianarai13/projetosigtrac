@@ -1,1 +1,2 @@
 arquivo para listex0
+Gerando um conflito na branch origin.
